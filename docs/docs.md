@@ -1,5 +1,3 @@
-UX Design System
-
 UX guidelines,best practices framework for working together to craft exceptional experiences. 
 
 ### Building Blocks
